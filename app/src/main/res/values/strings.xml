@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AI Image Lab</string>
+    <string name="app_tagline">Pengolahan Gambar AI Offline On-Device</string>
+    <string name="btn_select_image">Pilih Foto</string>
+    <string name="btn_process">Tingkatkan Gambar</string>
+    <string name="btn_save">Simpan Foto</string>
+    <string name="btn_share">Bagikan</string>
+    <string name="btn_models">Model AI (.onnx)</string>
+    <string name="btn_tutorial">Panduan Fitur</string>
+    <string name="title_model_manager">Manajemen Model ONNX</string>
+    <string name="title_tutorial">Panduan &amp; Tutorial Fitur</string>
+    <string name="model_codeformer_name">CodeFormer</string>
+    <string name="model_codeformer_desc">Restorasi Wajah Rusak / Buram (S-Lab NTU)</string>
+    <string name="model_realesrgan_name">Real-ESRGAN v4+</string>
+    <string name="model_realesrgan_desc">Super Resolution 4x untuk Foto Umum &amp; Lanskap</string>
+    <string name="model_gpen_name">GPEN BFR-256 (FP16)</string>
+    <string name="model_gpen_desc">Restorasi Wajah Cepat &amp; Ringan untuk Snapdragon 660</string>
+    <string name="model_compact_name">RealESRGAN Compact x4v3</string>
+    <string name="model_compact_desc">Upscaling Cepat Serbaguna x4 Hemat Daya</string>
+</resources>
